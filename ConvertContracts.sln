@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertContracts", "ConvertContracts\ConvertContracts.csproj", "{4AD66B46-13B7-44F6-8B1F-16FADE9089AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD66B46-13B7-44F6-8B1F-16FADE9089AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD66B46-13B7-44F6-8B1F-16FADE9089AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD66B46-13B7-44F6-8B1F-16FADE9089AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD66B46-13B7-44F6-8B1F-16FADE9089AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B40866-DDA6-4508-AF9E-E9678DA51E93}
+	EndGlobalSection
+EndGlobal
