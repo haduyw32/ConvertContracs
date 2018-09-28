@@ -14,7 +14,7 @@ namespace ConvertContracts
     /// </summary>
     public partial class App : Application
     {
-        private static string ClientId = "864082b3-d007-48cd-ab41-8f58be088154";
+        private static string ClientId = "864082b3-d007-48cd-ab41-8f58be088154--";
 
         public static PublicClientApplication PublicClientApp = new PublicClientApplication(ClientId);
     }
