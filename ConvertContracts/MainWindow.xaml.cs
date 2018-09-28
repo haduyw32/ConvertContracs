@@ -42,7 +42,8 @@ namespace ConvertContracts
 
             try
             {
-                acc = await App.PublicClientApp.GetAccountAsync("haduy_w32@outlook.com");
+                //acc = await App.PublicClientApp.GetAccountAsync("haduy_w32@outlook.com");
+                acc = await App.PublicClientApp.GetAccountAsync("1312080@student.hcmus.edu.vn");
                 authResult = await App.PublicClientApp.AcquireTokenAsync(_scopes, acc);
             }
             catch (MsalUiRequiredException ex)
